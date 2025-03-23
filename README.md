@@ -34,7 +34,7 @@ Use mongo-db either atlas or locally hosted for creating MONGO_URL
 ### 2️⃣ Running the Application  
 Open two terminal windows:  
 
-#### **Frontend**  (NOTE: Only works on http://localhost:3000 or 30001)
+#### **Frontend**  (NOTE: Only works on http://localhost:3000 or 3001)
 ```sh
 cd frontend
 npm install
