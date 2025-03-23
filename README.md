@@ -28,6 +28,8 @@
 
 ### 1️⃣ Environment Setup  
 Create a `.env` file based on `sample.env`.  
+Use CLIENT_ID and CLIENT_SECRET by creating GitHub application
+Use mongo-db either atlas or locally hosted for creating MONGO_URL
 
 ### 2️⃣ Running the Application  
 Open two terminal windows:  
