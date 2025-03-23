@@ -1,9 +1,9 @@
 # GIT-FUND  
 
-## 🚀 Description  
-**Git-Fund** is a decentralized platform that connects recruiters with freelancers via GitHub. It enables recruiters to post bounties, link them to GitHub issues, and process payments through smart contracts.  
+##  Description  
+**Git-Fund** is a decentralized platform that connects recruiters with freelancers via GitHub. It enables recruiters to post bounties, link them to GitHub issues, and process payments through smart contracts automatically when the PR (pull request) is accepted.
 
-### 🔹 How It Works  
+### How It Works  
 1. **Post a Bounty:**  
    - Recruiters provide task details.  
    - Optionally, attach a GitHub issue from a selected repository.  
@@ -20,7 +20,7 @@
 
 ---
 
-## ⚙️ Setup  
+##  Setup  
 
 ### Prerequisites  
 - Node.js installed  
@@ -32,7 +32,7 @@ Create a `.env` file based on `sample.env`.
 ### 2️⃣ Running the Application  
 Open two terminal windows:  
 
-#### **Frontend**  
+#### **Frontend**  (NOTE: Only works on http://localhost:3000 or 30001)
 ```sh
 cd frontend
 npm install
@@ -44,4 +44,4 @@ cd backend
 npm install
 npm start
 ```
-
+Visit the frontend url to view the final app
